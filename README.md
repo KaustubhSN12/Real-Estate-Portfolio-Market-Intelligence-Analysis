@@ -638,9 +638,9 @@ The project includes management-oriented dashboard views covering:
 - Promoter Concentration
 
 ```markdown
-![Real Estate Portfolio Delay Intelligence Dashboard](08_Visuals/delay_intelligence_dashboard.png)
+![Real Estate Portfolio Delay Intelligence Dashboard](Real Estate Portfolio & Market Intelligence.jpeg)
 
-![Real Estate Portfolio Market Intelligence Dashboard](08_Visuals/market_intelligence_dashboard.png)
+![Real Estate Portfolio Market Intelligence Dashboard](REAL ESTATE PORTFOLIO DELAY INTELLIGENCE DASHBOARD.jpeg)
 ```
 
 *(Include these images only if the corresponding files exist in the repository.)*
